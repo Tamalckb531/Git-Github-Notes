@@ -52,3 +52,11 @@ git config --list
    > git stash
 3. To use a version tag :
    > git tag tag-name
+
+# Git rebase and reflog :
+
+1. To change the base/starting point of a branch to avoid unnecessary commit :
+   > git rebase base-branch
+2. To get back in the timeline of a specific commit :
+   > git reflog commit-hash
+   > git reset --hard commit-hash
