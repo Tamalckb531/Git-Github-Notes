@@ -39,3 +39,5 @@ git config --list
 3. To switch into a branch
    > git switch branch-name
    > git checkout branch-name
+4. To merge another brunch code in a branch
+   > git merge branch-name
