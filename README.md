@@ -41,3 +41,5 @@ git config --list
    > git checkout branch-name
 4. To merge another brunch code in a branch
    > git merge branch-name
+5. Delete branch :
+   > git branch -d branch-name
