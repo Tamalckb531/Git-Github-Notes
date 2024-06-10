@@ -43,3 +43,12 @@ git config --list
    > git merge branch-name
 5. Delete branch :
    > git branch -d branch-name
+
+# Git diff, stash and tag :
+
+1. To check comparison between two file :
+   > git diff
+2. To go to another branch with out add (a temp saving method) :
+   > git stash
+3. To use a version tag :
+   > git tag tag-name
