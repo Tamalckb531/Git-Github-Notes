@@ -60,3 +60,12 @@ git config --list
 2. To get back in the timeline of a specific commit :
    > git reflog commit-hash
    > git reset --hard commit-hash
+
+# Pushing code to Github :
+
+1. To add a repository to the local file:
+   > git remote add origin url
+2. To add the code in the remote url :
+   > git push origin branch-name
+3. To add code of other brunch in the repo :
+   > git push -u origin branch-name
