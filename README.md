@@ -29,3 +29,13 @@ git config --list
 7. To see the history of commit :
    > git log
    > git log --oneline (to get the history in one line)
+
+# Git branch and conflict :
+
+1. To check current branch
+   > git branch
+2. To create new branch
+   > git branch new-branch
+3. To switch into a branch
+   > git switch branch-name
+   > git checkout branch-name
