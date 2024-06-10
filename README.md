@@ -69,3 +69,11 @@ git config --list
    > git push origin branch-name
 3. To add code of other brunch in the repo :
    > git push -u origin branch-name
+
+# Open source GuideLine :
+
+1. Fork the repo wanna contribute.
+2. Clone it locally.
+3. Add code (talk with team -> add value).
+4. add, commit , push (please add informative and easy to understand commit)
+5. Create pull request from contribute button of forked repo. (pull request should have good and informative title, subtitle and description)
